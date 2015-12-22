@@ -24,4 +24,8 @@ Add an index.
 
 Test again
 
+To test from the command line
+
+    mvn gatling:execute -Dgatling.simulationClass=GetFriends
+
 See [blog post](http://wp.me/p26jdv-Ja) for more details.
